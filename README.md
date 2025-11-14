@@ -67,7 +67,7 @@ This project is created for educational purposes as part of the roadmap.sh learn
 ---
 
 **Author:** Ayman Belarbi  
-**Project:** [roadmap.sh - Basic HTML Website](https://roadmap.sh/projects/basic-html-website)  
+**Project:** [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)  
 **Level:** Beginner
 
 ![Portfolio Design](https://assets.roadmap.sh/guest/portfolio-design-83lku.png)
